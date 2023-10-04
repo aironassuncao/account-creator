@@ -1,0 +1,19 @@
+
+Name: Jose Antonio
+Age: 35
+Gender: Male
+Job: Analista
+Income: 5000 BRL
+Email: joseantonio@empresa.com
+ID Number : 63488-38
+Password: 9143 
+ 
+Name: Barbara Maria
+Age: 22
+Gender: Non-Binary
+Job: Agente de Marketing
+Income: 6000 BRL
+Email: barbaramaria@empresa.com
+ID Number : 85926-95
+Password: 2112 
+ 
